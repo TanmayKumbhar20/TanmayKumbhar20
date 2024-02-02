@@ -1,4 +1,4 @@
-<img src="https://play.google.com/store/apps/details?id=com.behance.behance&hl=en_US" alt="Profile Header" width="100%">
+<img src="https://play.google.com/store/apps/details?id=com.behance.behance&hl=en_US" height="50%" width="100%">
 
 # 💫 About Me:
 🐧 Mastering Linux code like a ninja.<br>🎯 Leveling up, one project at a time.<br>🌱 Soaking up knowledge, growing like a boss.<br>🎨 Mind buzzing with creativity—ideas on overdrive.<br>⚡ Unleashing a storm of inspiration, unstoppable.<br>💡 Creating cool projects, one line at a time.

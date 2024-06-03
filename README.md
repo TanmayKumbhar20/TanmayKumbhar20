@@ -1,6 +1,8 @@
 # 💫 About Me:
 Being a Full Stack Developer, I've got a secret: I'm actually Spider-Man, but shh, don't tell anyone! 🕷️🕸️ <br>While I may not swing from buildings during the day, I bring the same level of agility and quick thinking to my coding projects. <br>With great power comes great responsibility, and I'm dedicated to using my skills to make a positive impact in the tech world. <br>Let's spin some web-worthy solutions together! 💻✨
 
+# ⚡Additionally:
+When it comes to coding, I've got more tricks up my sleeve than a magician at a tech conference! 🎩✨ But unlike magic, my code is real and ready to make your wildest dreams come true. Let's work some coding magic together and make the impossible possible! 💻🔮
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/traveller_of_zoe/) 

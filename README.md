@@ -2,7 +2,7 @@
 Alright, here's the scoop: I'm not just any Full Stack Developer—I'm actually Iron Man in disguise. But ssh, let's keep that between us! 💼💥 Sure, I might not have a suit of armor handy, but when it comes to coding, I'm a real superhero. With great coding power comes great responsibility, and I'm on a mission to use my skills for good in the tech world. When it comes to coding, I've got more tricks up my sleeve than a magician at a tech conference! 🎩✨ But unlike magic, my code is real and ready to make your wildest dreams come true! ✨😁
 
 ## ⚡Additionally:
-When it comes to coding, I've got more tricks up my sleeve than a magician at a tech conference! 🎩✨ But unlike magic, my code is real and ready to make your wildest dreams come true. Let's work some coding magic together and make the impossible possible! 💻🔮
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/traveller_of_zoe/) 

@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'am Tanmay
 Alright, here's the scoop: I'm not just any Full Stack Developer—I'm actually Iron Man in disguise. But ssh, let's keep that between us! 💼💥 Sure, I might not have a suit of armor handy, but when it comes to coding, I'm a real superhero. With great coding power comes great responsibility, and I'm on a mission to use my skills for good in the tech world. When it comes to coding, I've got more tricks up my sleeve than a magician at a tech conference! 🎩✨ But unlike magic, my code is real and ready to make your wildest dreams come true! ✨😁
 
 ## 🌐 Socials:
